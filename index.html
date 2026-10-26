@@ -510,7 +510,6 @@
         };
 
         const firebaseConfig = {
-            apiKey: "AIzaSyBHL8yscpNGsXDUAFa7dBNywztX3-mDuuM",
             authDomain: "lunch-announcement-9f0d5.firebaseapp.com",
             projectId: "lunch-announcement-9f0d5",
             storageBucket: "lunch-announcement-9f0d5.firebasestorage.app",
